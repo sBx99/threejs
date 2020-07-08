@@ -1,5 +1,5 @@
-#1 - A Basic Scene with THREE.js
-================================
+#2 - THREE.js and Geometry
+===========================
 
 - [x] [The Website](https://threejs.org/)
 - [x] [The Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
