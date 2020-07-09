@@ -23,3 +23,5 @@ in a web browser. Three.js uses WebGL.
 
 1. [A Basic Scene](https://threejs-basic-scene.glitch.me/)
 2. [Geometry](https://2-threejs-geometry.glitch.me/)
+3. [Materials](https://3-threejs-materials.glitch.me/)
+4. [Shaders](https://4-threejs-shaders.glitch.me/)
